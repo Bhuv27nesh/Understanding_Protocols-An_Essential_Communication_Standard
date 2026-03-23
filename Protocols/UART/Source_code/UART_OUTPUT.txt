@@ -1,0 +1,11 @@
+Time=1145785000 | Sent=a5 | Received=a5
+Time=1145865000 | Sent=3c | Received=a5
+Time=2291545000 | Sent=7e | Received=3c
+Time=2291625000 | Sent=55 | Received=3c
+Time=3437305000 | Sent=f0 | Received=55
+Time=3437385000 | Sent=0f | Received=55
+All 6 data transmissions completed!
+- uart_top_tb.sv:83: Verilog $finish
+- S i m u l a t i o n   R e p o r t: Verilator 5.042 2025-11-02
+- Verilator: $finish at 3ms; walltime 0.186 s; speed 18.551 ms/s
+- Verilator: cpu 0.186 s on 1 threads; alloced 126 MB
